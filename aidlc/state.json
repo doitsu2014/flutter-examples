@@ -1,0 +1,42 @@
+{
+  "workflowVersion": "1.0.0",
+  "engineVersion": "0.1.0",
+  "activeIntent": {
+    "id": "260930-create-new-flutter",
+    "label": "create-new-flutter",
+    "description": "create new Flutter App Hello World as first example",
+    "scope": "classic",
+    "space": "default",
+    "createdAt": "2026-09-30T01:53:37.411Z"
+  },
+  "currentStage": "feasibility-assessment",
+  "parked": true,
+  "stages": {
+    "intent-capture": {
+      "status": "complete",
+      "attempt": 1,
+      "feedback": [],
+      "updatedAt": "2026-09-30T01:55:43.414Z"
+    },
+    "requirements-analysis": {
+      "status": "complete",
+      "attempt": 1,
+      "feedback": [],
+      "updatedAt": "2026-09-30T01:56:28.250Z"
+    },
+    "research-synthesis": {
+      "status": "skipped",
+      "attempt": 1,
+      "feedback": [],
+      "updatedAt": "2026-09-30T01:56:32.484Z"
+    },
+    "feasibility-assessment": {
+      "status": "active",
+      "attempt": 1,
+      "feedback": [],
+      "updatedAt": "2026-09-30T01:56:32.484Z"
+    }
+  },
+  "startedAt": "2026-09-30T01:53:37.411Z",
+  "updatedAt": "2026-09-30T01:57:26.549Z"
+}
